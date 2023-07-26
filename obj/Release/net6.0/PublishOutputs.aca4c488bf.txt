@@ -1,0 +1,8 @@
+C:\Users\alpo1\source\repos\RabbitListener\bin\Release\net6.0\publish\RabbitListener.exe
+C:\Users\alpo1\source\repos\RabbitListener\bin\Release\net6.0\publish\RabbitListener.dll
+C:\Users\alpo1\source\repos\RabbitListener\bin\Release\net6.0\publish\RabbitListener.deps.json
+C:\Users\alpo1\source\repos\RabbitListener\bin\Release\net6.0\publish\RabbitListener.runtimeconfig.json
+C:\Users\alpo1\source\repos\RabbitListener\bin\Release\net6.0\publish\RabbitListener.pdb
+C:\Users\alpo1\source\repos\RabbitListener\bin\Release\net6.0\publish\Newtonsoft.Json.dll
+C:\Users\alpo1\source\repos\RabbitListener\bin\Release\net6.0\publish\RabbitMQ.Client.dll
+C:\Users\alpo1\source\repos\RabbitListener\bin\Release\net6.0\publish\System.Threading.Channels.dll

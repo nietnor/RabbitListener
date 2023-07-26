@@ -1,0 +1,3 @@
+{"Timestamp":"2023-07-26T15:12:06.0103000+03:00","Level":"Information","MessageTemplate":"\"ServiceName\":{serviceName}, Url:{url}, StatusCode:{statusCode}","Properties":{"serviceName":"RabbitListener","url":"https://learn.microsoft.com/en-us/dotnet/fundamentals/networking/http/httpclient","statusCode":"OK"}}
+{"ServiceName":"RabbitListener","Url":"https://learn.microsoft.com/en-us/dotnet/fundamentals/networking/http/httpclient","StatusCode":"OK"}
+{"ServiceName":"RabbitListener","Url":"https://learn.microsoft.com/en-us/dotnet/fundamentals/networking/http/httpclient","StatusCode":"OK"}
